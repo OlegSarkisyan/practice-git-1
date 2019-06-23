@@ -1,5 +1,3 @@
 my first line in project
-london
-Moscow
-Rome
 Paris
+
